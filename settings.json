@@ -8,10 +8,11 @@
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
   "ui_font_size": 16,
+  "ui_font_family": ".ZedMono",
   "buffer_font_size": 16,
   "theme": {
     "mode": "system",
-    "light": "One Light",
+    "light": "Vesper",
     "dark": "One Dark"
   },
   "vim_mode": true,
@@ -19,5 +20,8 @@
   "telemetry": {
     "diagnostics": false,
     "metrics": false
+  },
+  "minimap": {
+    "show": "always"
   }
 }
